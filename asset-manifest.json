@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jordiReactApp/static/css/main.3fd2f8de.chunk.css",
+    "main.js": "/jordiReactApp/static/js/main.7334e2e2.chunk.js",
+    "main.js.map": "/jordiReactApp/static/js/main.7334e2e2.chunk.js.map",
+    "runtime-main.js": "/jordiReactApp/static/js/runtime-main.a1869f04.js",
+    "runtime-main.js.map": "/jordiReactApp/static/js/runtime-main.a1869f04.js.map",
+    "static/js/2.39f74a35.chunk.js": "/jordiReactApp/static/js/2.39f74a35.chunk.js",
+    "static/js/2.39f74a35.chunk.js.map": "/jordiReactApp/static/js/2.39f74a35.chunk.js.map",
+    "index.html": "/jordiReactApp/index.html",
+    "precache-manifest.06760418d620fdde4131f736c03d292d.js": "/jordiReactApp/precache-manifest.06760418d620fdde4131f736c03d292d.js",
+    "service-worker.js": "/jordiReactApp/service-worker.js",
+    "static/css/main.3fd2f8de.chunk.css.map": "/jordiReactApp/static/css/main.3fd2f8de.chunk.css.map",
+    "static/js/2.39f74a35.chunk.js.LICENSE.txt": "/jordiReactApp/static/js/2.39f74a35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1869f04.js",
+    "static/js/2.39f74a35.chunk.js",
+    "static/css/main.3fd2f8de.chunk.css",
+    "static/js/main.7334e2e2.chunk.js"
+  ]
+}
